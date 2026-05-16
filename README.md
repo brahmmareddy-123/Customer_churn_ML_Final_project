@@ -1,1 +1,24 @@
-# Customer_churn_ML_Final_project
+# Smart Customer Churn Prediction System
+
+## Problem Statement
+Predict customer churn using supervised machine learning.
+
+## Model Used
+Random Forest Classifier
+
+## Accuracy
+79.27%
+
+## Features
+- Customer tenure
+- Monthly charges
+- Total charges
+- Contract type
+- Internet service
+- Payment method
+
+## Tech Stack
+Python, Pandas, Scikit-learn, Streamlit
+
+## Deployment
+Streamlit Cloud
